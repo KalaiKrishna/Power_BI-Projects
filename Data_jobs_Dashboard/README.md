@@ -8,7 +8,7 @@ This dashboard was created for **Job Seekers, Job Transitioners, and Job Swapper
 
 ### Dashboard File
 
-You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](Data_Jobs_Dashboard.pbix).
+You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](./Data_Jobs_Dashboard.pbix).
 
 ## Skills Showcased
 
