@@ -52,6 +52,30 @@ Version 2.0 of the Data Jobs Dashboard streamlines the analysis into a highly fo
 
 ---
 
+### 🔹 Blinkit Sales & Customer Insights Dashboard
+
+![Blinkit Dashboard Preview](./Blinkit_Sales_Dashboard/images/blinkit_dashboard.PNG)
+
+The Blinkit Dashboard provides an analytical deep dive into customer purchasing behavior, outlet characteristics, and product performance.  
+It is designed to help business decision-makers identify what drives sales, where improvements can be made, and how store attributes affect profitability.
+
+This dashboard delivers interactive insights across **sales, product categories, outlet size, rating trends, and geographic performance**, making it a valuable tool for retail analytics.
+
+**Key Power BI Skills Demonstrated:**
+
+- 🎨 Clean & Consistent Dashboard Design (Retail Theme UX)
+- ⚙️ Data Cleaning & Transformation using Power Query
+- 🔗 Relationship Modeling & Schema Optimization
+- 🧮 DAX Measures for KPIs (Total Sales, Avg Sales, Item Count, Rating)
+- 📊 Multiple Visualization Types (Donut, Bar, Line, Stacked, Funnel Map, Matrix)
+- 🔢 KPI Cards with Business Benchmarks
+- 🎚️ Slicers for Outlet-Based and Category-Level Filtering
+- 🚀 Report Optimization for Responsive Interaction
+
+[➡️ **View Full Project Details (README)**](./Blinkit_Sales_Dashboard/README.md)
+
+---
+
 ## About This Portfolio
 
 Each dashboard linked above has its own detailed `README.md` file within its respective project folder. These offer deeper insights into the project objectives, data sources, specific Power BI techniques employed, and a closer look at the dashboard build.
