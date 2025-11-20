@@ -41,7 +41,7 @@ This project involved applying several core Power BI and analytics concepts:
 
 This dashboard provides a structured breakdown of Blinkit's business performance across multiple perspectives.
 
-![Blinkit Dashboard Page](./images/blinkit_dashboard.PNG)
+![Blinkit Dashboard Page](./images/blinkit_dashboard.png)
 
 Key insights include:
 

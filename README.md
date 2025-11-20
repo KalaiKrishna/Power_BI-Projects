@@ -54,7 +54,7 @@ Version 2.0 of the Data Jobs Dashboard streamlines the analysis into a highly fo
 
 ### 🔹 Blinkit Sales & Customer Insights Dashboard
 
-![Blinkit Dashboard Preview](./Blinkit_Sales_Dashboard/images/blinkit_dashboard.PNG)
+![Blinkit Dashboard Preview](./Blinkit_Sales_Dashboard/images/blinkit_dashboard.png)
 
 The Blinkit Dashboard provides an analytical deep dive into customer purchasing behavior, outlet characteristics, and product performance.  
 It is designed to help business decision-makers identify what drives sales, where improvements can be made, and how store attributes affect profitability.
